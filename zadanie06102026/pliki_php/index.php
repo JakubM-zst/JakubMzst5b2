@@ -1,0 +1,1 @@
+nazwa-folderu/plik.txt
